@@ -6,3 +6,5 @@ for number in numbers:
     print(number)
 
 print("first modification in 2nd commit")
+print("first modification in 2nd commit")
+
