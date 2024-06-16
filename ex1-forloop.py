@@ -7,5 +7,5 @@ for number in numbers:
 
 print("first modification in 2nd commit")
 print("first modification in 2nd commit")
-print("added this using bryantech")
+
 
